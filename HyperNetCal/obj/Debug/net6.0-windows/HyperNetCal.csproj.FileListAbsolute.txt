@@ -1,0 +1,17 @@
+C:\Users\Myth\source\repos\HyperNetCal\HyperNetCal\bin\Debug\net6.0-windows\HyperNetCal.exe
+C:\Users\Myth\source\repos\HyperNetCal\HyperNetCal\bin\Debug\net6.0-windows\HyperNetCal.deps.json
+C:\Users\Myth\source\repos\HyperNetCal\HyperNetCal\bin\Debug\net6.0-windows\HyperNetCal.runtimeconfig.json
+C:\Users\Myth\source\repos\HyperNetCal\HyperNetCal\bin\Debug\net6.0-windows\HyperNetCal.dll
+C:\Users\Myth\source\repos\HyperNetCal\HyperNetCal\bin\Debug\net6.0-windows\HyperNetCal.pdb
+C:\Users\Myth\source\repos\HyperNetCal\HyperNetCal\obj\Debug\net6.0-windows\HyperNetCal.csproj.AssemblyReference.cache
+C:\Users\Myth\source\repos\HyperNetCal\HyperNetCal\obj\Debug\net6.0-windows\HyperNetCal.Form1.resources
+C:\Users\Myth\source\repos\HyperNetCal\HyperNetCal\obj\Debug\net6.0-windows\HyperNetCal.csproj.GenerateResource.cache
+C:\Users\Myth\source\repos\HyperNetCal\HyperNetCal\obj\Debug\net6.0-windows\HyperNetCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myth\source\repos\HyperNetCal\HyperNetCal\obj\Debug\net6.0-windows\HyperNetCal.AssemblyInfoInputs.cache
+C:\Users\Myth\source\repos\HyperNetCal\HyperNetCal\obj\Debug\net6.0-windows\HyperNetCal.AssemblyInfo.cs
+C:\Users\Myth\source\repos\HyperNetCal\HyperNetCal\obj\Debug\net6.0-windows\HyperNetCal.csproj.CoreCompileInputs.cache
+C:\Users\Myth\source\repos\HyperNetCal\HyperNetCal\obj\Debug\net6.0-windows\HyperNetCal.dll
+C:\Users\Myth\source\repos\HyperNetCal\HyperNetCal\obj\Debug\net6.0-windows\refint\HyperNetCal.dll
+C:\Users\Myth\source\repos\HyperNetCal\HyperNetCal\obj\Debug\net6.0-windows\HyperNetCal.pdb
+C:\Users\Myth\source\repos\HyperNetCal\HyperNetCal\obj\Debug\net6.0-windows\HyperNetCal.genruntimeconfig.cache
+C:\Users\Myth\source\repos\HyperNetCal\HyperNetCal\obj\Debug\net6.0-windows\ref\HyperNetCal.dll
