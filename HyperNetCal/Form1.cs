@@ -2,9 +2,11 @@ namespace HyperNetCal
 {
     public partial class Form1 : Form
     {
+        List<(string, int)> values;
         public Form1()
         {
             InitializeComponent();
+            values = new List<(string, int)>();
         }
 
         private void cal_Click(object sender, EventArgs e)
@@ -21,7 +23,8 @@ namespace HyperNetCal
                 }
             }
 
-            List<(string, int)> values = new List<(string, int)> ();
+            values.Clear();
+
             foreach(string ticket in t)
             {
                 string s = ticket.Trim().ToLower();
@@ -38,6 +41,24 @@ namespace HyperNetCal
             {
                 Ranking.Items.Add($"{item.Item1} - {item.Item2}");
             }
+        }
+
+        private void Ranking_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            int total = 0;
+            int curr = 0;
+            foreach(ListViewItem item in Ranking.SelectedItems)
+            {
+                int index = Ranking.Items.IndexOf(item);
+                curr += values[index].Item2;
+            }
+
+            foreach ((string, int) item in values)
+            {
+                total += item.Item2;
+            }
+
+            val.Text = $"{curr}/{total}";
         }
     }
 }
